@@ -39,8 +39,10 @@ Software engineer focused on backend development, native mobile applications, an
 
 ## Featured Projects
 
-### Sippy
+### [Sippy](https://github.com/comebackunreal/sippy-showcase)
 A native iOS pet-care application built with SwiftUI and a Kotlin/Spring Boot backend, featuring cloud infrastructure and secure APIs.
+
+[Explore Sippy Showcase](https://github.com/comebackunreal/sippy-showcase)
 
 ### QA-Hub
 An engineering platform for structured QA workflows, controlled AI integrations, and auditable processes.
@@ -48,8 +50,10 @@ An engineering platform for structured QA workflows, controlled AI integrations,
 ### Mishmeret
 A shift marketplace backend with booking workflows, authentication, and asynchronous messaging.
 
-### Vkusodex
+### [Vkusodex](https://github.com/comebackunreal/vkusodex-showcase)
 A mobile app for exploring food collections, tracking discoveries, and earning achievements.
+
+[Explore Vkusodex Showcase](https://github.com/comebackunreal/vkusodex-showcase)
 
 ## Connect
 
